@@ -4,3 +4,17 @@
 .chart {
   height: 500px;
 }
+
+.bar {
+  float: left;
+  height: 16px;
+  background-color: #00688B;
+  margin-top: 0px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.year {
+  width: 30px;
+  float: left;
+}
